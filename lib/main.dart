@@ -413,3 +413,4 @@ class SosScreen extends StatelessWidget {
     );
   }
 }
+
