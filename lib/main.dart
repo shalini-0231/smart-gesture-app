@@ -17,9 +17,7 @@ class SmartGestureApp extends StatelessWidget {
   }
 }
 
-/* =========================
-   MAIN NAVIGATION (MEMBER 1)
-   ========================= */
+
 class MainNavigation extends StatefulWidget {
   const MainNavigation({super.key});
 
@@ -63,9 +61,7 @@ class _MainNavigationState extends State<MainNavigation> {
   }
 }
 
-/* =========================
-   HOME SCREEN (MEMBER 1)
-   ========================= */
+
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
@@ -104,9 +100,7 @@ class HomeScreen extends StatelessWidget {
   }
 }
 
-/* =========================
-   VOICE → GESTURE (MEMBER 2)
-   ========================= */
+
 class VoiceGestureScreen extends StatefulWidget {
   const VoiceGestureScreen({super.key});
 
@@ -178,9 +172,7 @@ class _VoiceGestureScreenState extends State<VoiceGestureScreen> {
   }
 }
 
-/* =========================
-   GESTURE LIBRARY (MEMBER 3)
-   ========================= */
+
 class GestureLibraryScreen extends StatefulWidget {
   const GestureLibraryScreen({super.key});
 
@@ -281,9 +273,7 @@ class _GestureLibraryScreenState extends State<GestureLibraryScreen> {
   }
 }
 
-/* =========================
-   LIVE CONVERSATION (MEMBER 3)
-   ========================= */
+
 class LiveConversationScreen extends StatefulWidget {
   const LiveConversationScreen({super.key});
 
@@ -348,9 +338,7 @@ class _LiveConversationScreenState extends State<LiveConversationScreen> {
   }
 }
 
-/* =========================
-   SOS SCREEN (MEMBER 4)
-   ========================= */
+
 class SosScreen extends StatelessWidget {
   const SosScreen({super.key});
 
